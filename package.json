@@ -1,0 +1,24 @@
+{
+  "name": "trabalho-programacao-para-automacao-de-testes",
+  "version": "1.0.0",
+  "description": "Este repositório foi criado para resolver o trabalho para a Pós Graduação em Automação de Testes by Julio de Lima",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/souzasroberta/Trabalho-Programacao-Para-Automacao-De-Testes.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/souzasroberta/Trabalho-Programacao-Para-Automacao-De-Testes/issues"
+  },
+  "homepage": "https://github.com/souzasroberta/Trabalho-Programacao-Para-Automacao-De-Testes#readme",
+  "dependencies": {
+    "mocha": "^11.7.5"
+  }
+}
