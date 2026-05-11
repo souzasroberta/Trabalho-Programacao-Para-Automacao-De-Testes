@@ -25,11 +25,17 @@ Implementação de uma função de login que valida as credenciais de usuários 
 
 ## Estrutura de pastas
 ├── src/
+
 │   └── login.js          # Vetor de usuários e função fazerLogin
+
 ├── test/
+
 │   └── login.test.js     # Testes automatizados
+
 ├── package.json
+
 └── .gitignore
+
 
 ---
 
