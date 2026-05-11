@@ -58,7 +58,7 @@ npm install
 
 **4. Execute os testes**
 ```bash
-npm test
+npx mocha
 ```
 
 ---
